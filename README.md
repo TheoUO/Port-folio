@@ -10,7 +10,7 @@
 
 ## Description 
 
-[Visit the Deployed Site](https://youtu.be/BFyeuLhjcPY)
+[Visit the Deployed Site](https://theouo.github.io/Port-folio/)
 Hi! Here's my Portfolio where you can learn a bit about me!
 
 
@@ -27,7 +27,7 @@ It was a fun learning experience working with CSS and being able to design my ve
 ### Theodore Okeke 
 
 
-* [Portfolio](https://youtu.be/bHX54GCrDB4)
+* [Portfolio](https://theouo.github.io/Port-folio/)
 * [LinkedIn](https://www.linkedin.com/in/theodore-okeke/)
 * [Github](https://github.com/TheoUO)
 ```
